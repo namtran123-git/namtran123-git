@@ -1,1 +1,1 @@
-“Hi! I’m practicing git today!”
+“Hi! I’m practicing git today. For more detail information, please visit github website!”.
